@@ -1,0 +1,10 @@
+C:\Users\Samet\Desktop\RandomUserNameApplication\RandomUserNameApplication\bin\Debug\RandomUserNameApplication.exe.config
+C:\Users\Samet\Desktop\RandomUserNameApplication\RandomUserNameApplication\bin\Debug\RandomUserNameApplication.exe
+C:\Users\Samet\Desktop\RandomUserNameApplication\RandomUserNameApplication\bin\Debug\RandomUserNameApplication.pdb
+C:\Users\Samet\Desktop\RandomUserNameApplication\RandomUserNameApplication\obj\Debug\RandomUserNameApplication.csprojAssemblyReference.cache
+C:\Users\Samet\Desktop\RandomUserNameApplication\RandomUserNameApplication\obj\Debug\RandomUserNameApplication.Form1.resources
+C:\Users\Samet\Desktop\RandomUserNameApplication\RandomUserNameApplication\obj\Debug\RandomUserNameApplication.Properties.Resources.resources
+C:\Users\Samet\Desktop\RandomUserNameApplication\RandomUserNameApplication\obj\Debug\RandomUserNameApplication.csproj.GenerateResource.cache
+C:\Users\Samet\Desktop\RandomUserNameApplication\RandomUserNameApplication\obj\Debug\RandomUserNameApplication.csproj.CoreCompileInputs.cache
+C:\Users\Samet\Desktop\RandomUserNameApplication\RandomUserNameApplication\obj\Debug\RandomUserNameApplication.exe
+C:\Users\Samet\Desktop\RandomUserNameApplication\RandomUserNameApplication\obj\Debug\RandomUserNameApplication.pdb
